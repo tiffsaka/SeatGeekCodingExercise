@@ -1,0 +1,2140 @@
+{
+  "events": [
+    {
+      "type": "football",
+      "id": 5396718,
+      "datetime_utc": "2021-07-15T23:30:00",
+      "venue": {
+        "state": "QC",
+        "name_v2": "Percival Molson Memorial Stadium",
+        "postal_code": "H2W 1S4",
+        "name": "Percival Molson Memorial Stadium",
+        "links": [
+          
+        ],
+        "timezone": "America/Toronto",
+        "url": "https://seatgeek.com/venues/percival-molson-memorial-stadium/tickets",
+        "score": 0.509396,
+        "location": {
+          "lat": 45.5097,
+          "lon": -73.5797
+        },
+        "address": "475 Pine Ave W",
+        "country": "Canada",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 8,
+        "city": "Montreal",
+        "slug": "percival-molson-memorial-stadium",
+        "extended_address": "Montreal, Canada",
+        "id": 6034,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 0,
+        "capacity": 25012,
+        "display_location": "Montreal, Canada"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "Montreal Alouettes",
+          "image": "https://seatgeek.com/images/performers-landscape/montreal-alouettes-e78ea8/10758/huge.jpg",
+          "id": 10758,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/montreal-alouettes-e78ea8/10758/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 14
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/montreal-alouettes-tickets",
+          "score": 0.49,
+          "slug": "montreal-alouettes",
+          "home_venue_id": null,
+          "short_name": "Montreal Alouettes",
+          "num_upcoming_events": 14,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "football",
+          "name": "Toronto Argonauts",
+          "image": "https://seatgeek.com/images/performers-landscape/toronto-argonauts-36c84e/10768/huge.jpg",
+          "id": 10768,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/toronto-argonauts-36c84e/10768/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 14
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/toronto-argonauts-tickets",
+          "score": 0.51,
+          "slug": "toronto-argonauts",
+          "home_venue_id": null,
+          "short_name": "Toronto Argonauts",
+          "num_upcoming_events": 14,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-15T19:30:00",
+      "time_tbd": false,
+      "short_title": "Toronto Argonauts at Montreal Alouettes",
+      "visible_until_utc": "2021-07-16T03:30:00",
+      "stats": {
+        "listing_count": null,
+        "average_price": null,
+        "lowest_price_good_deals": null,
+        "lowest_price": null,
+        "highest_price": null,
+        "visible_listing_count": null,
+        "dq_bucket_counts": null,
+        "median_price": null,
+        "lowest_sg_base_price": null,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/toronto-argonauts-at-montreal-alouettes-tickets/football/2021-07-15-7-30-pm/5396718",
+      "score": 0.543,
+      "announce_date": "2021-05-05T00:00:00",
+      "created_at": "2021-05-05T16:01:01",
+      "date_tbd": false,
+      "title": "Toronto Argonauts at Montreal Alouettes",
+      "popularity": 0.749,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "football",
+      "id": 5425909,
+      "datetime_utc": "2021-07-16T02:00:00",
+      "venue": {
+        "state": "WA",
+        "name_v2": "Starfire Sports Complex",
+        "postal_code": "98188",
+        "name": "Starfire Sports Complex",
+        "links": [
+          
+        ],
+        "timezone": "America/Los_Angeles",
+        "url": "https://seatgeek.com/venues/starfire-sports-complex/tickets",
+        "score": 0.51,
+        "location": {
+          "lat": 47.4701,
+          "lon": -122.249
+        },
+        "address": "14800 Starfire Way",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 1,
+        "city": "Seattle",
+        "slug": "starfire-sports-complex",
+        "extended_address": "Seattle, WA 98188",
+        "id": 4054,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 819,
+        "capacity": 4500,
+        "display_location": "Seattle, WA"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "San Jose SaberCats",
+          "image": "https://seatgeek.com/images/performers-landscape/san-jose-sabercats-b57cc5/10747/huge.jpg",
+          "id": 10747,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/san-jose-sabercats-b57cc5/10747/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/san-jose-sabercats-tickets",
+          "score": 0.37,
+          "slug": "san-jose-sabercats",
+          "home_venue_id": null,
+          "short_name": "San Jose SaberCats",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-15T19:00:00",
+      "time_tbd": false,
+      "short_title": "Seattle Seawolves",
+      "visible_until_utc": "2021-07-16T06:00:00",
+      "stats": {
+        "listing_count": 1,
+        "average_price": 38,
+        "lowest_price_good_deals": null,
+        "lowest_price": 35,
+        "highest_price": 51,
+        "visible_listing_count": 1,
+        "dq_bucket_counts": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "median_price": 38,
+        "lowest_sg_base_price": 21,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/seattle-seawolves-tickets/football/2021-07-15-7-pm/5425909",
+      "score": 0.398,
+      "announce_date": "2021-06-18T00:00:00",
+      "created_at": "2021-06-18T16:00:07",
+      "date_tbd": false,
+      "title": "Seattle Seawolves",
+      "popularity": 0.649,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "football",
+      "id": 5345658,
+      "datetime_utc": "2021-07-17T02:00:00",
+      "venue": {
+        "state": "BC",
+        "name_v2": "BC Place Stadium",
+        "postal_code": "V6B 4Y8",
+        "name": "BC Place Stadium",
+        "links": [
+          
+        ],
+        "timezone": "America/Vancouver",
+        "url": "https://seatgeek.com/venues/bc-place-stadium/tickets",
+        "score": 0.74,
+        "location": {
+          "lat": 49.2767,
+          "lon": -123.112
+        },
+        "address": "777 Pacific Blvd",
+        "country": "Canada",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 5,
+        "city": "Vancouver",
+        "slug": "bc-place-stadium",
+        "extended_address": "Vancouver, Canada",
+        "id": 46,
+        "popularity": 0,
+        "access_method": {
+          "method": "QRCODE_TM",
+          "created_at": "2015-08-04T00:00:00Z",
+          "employee_only": false
+        },
+        "metro_code": 0,
+        "capacity": 60000,
+        "display_location": "Vancouver, Canada"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "BC Lions",
+          "image": "https://seatgeek.com/images/performers-landscape/bc-lions-6c39ed/10756/huge.jpg",
+          "id": 10756,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/bc-lions-6c39ed/10756/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 9
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/bc-lions-tickets",
+          "score": 0.5,
+          "slug": "bc-lions",
+          "home_venue_id": null,
+          "short_name": "BC Lions",
+          "num_upcoming_events": 9,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "football",
+          "name": "Calgary Stampeders",
+          "image": "https://seatgeek.com/images/performers-landscape/calgary-stampeders-e78809/10788/huge.jpg",
+          "id": 10788,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/calgary-stampeders-e78809/10788/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 14
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/calgary-stampeders-tickets",
+          "score": 0.53,
+          "slug": "calgary-stampeders",
+          "home_venue_id": null,
+          "short_name": "Calgary Stampeders",
+          "num_upcoming_events": 14,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-16T19:00:00",
+      "time_tbd": false,
+      "short_title": "Calgary Stampeders at BC Lions",
+      "visible_until_utc": "2021-07-17T06:00:00",
+      "stats": {
+        "listing_count": null,
+        "average_price": null,
+        "lowest_price_good_deals": null,
+        "lowest_price": null,
+        "highest_price": null,
+        "visible_listing_count": null,
+        "dq_bucket_counts": null,
+        "median_price": null,
+        "lowest_sg_base_price": null,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/calgary-stampeders-at-bc-lions-tickets/football/2021-07-16-7-pm/5345658",
+      "score": 0.575,
+      "announce_date": "2020-11-25T00:00:00",
+      "created_at": "2020-11-25T16:00:09",
+      "date_tbd": false,
+      "title": "Calgary Stampeders at BC Lions",
+      "popularity": 0.746,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "QRCODE_TM",
+        "created_at": "2015-08-04T00:00:00Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "football",
+      "id": 5397444,
+      "datetime_utc": "2021-07-17T23:00:00",
+      "venue": {
+        "state": "NC",
+        "name_v2": "Greensboro Coliseum Complex",
+        "postal_code": "27403",
+        "name": "Greensboro Coliseum Complex",
+        "links": [
+          
+        ],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/greensboro-coliseum-complex-1/tickets",
+        "score": 0.87,
+        "location": {
+          "lat": 36.058,
+          "lon": -79.8248
+        },
+        "address": "1921 West Lee Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 24,
+        "city": "Greensboro",
+        "slug": "greensboro-coliseum-complex-1",
+        "extended_address": "Greensboro, NC 27403",
+        "id": 4318,
+        "popularity": 0,
+        "access_method": {
+          "method": "QRCODE_TM",
+          "created_at": "2015-08-04T00:00:00Z",
+          "employee_only": false
+        },
+        "metro_code": 518,
+        "capacity": 23500,
+        "display_location": "Greensboro, NC"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "Carolina Cobras",
+          "image": "https://seatgeek.com/images/performers-landscape/carolina-cobras-a4bebc/663330/huge.jpg",
+          "id": 663330,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/carolina-cobras-a4bebc/663330/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 3
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/carolina-cobras-tickets",
+          "score": 0.35,
+          "slug": "carolina-cobras",
+          "home_venue_id": null,
+          "short_name": "Carolina Cobras",
+          "num_upcoming_events": 3,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "football",
+          "name": "Orlando Predators",
+          "image": "https://seatgeek.com/images/performers-landscape/orlando-predators-984076/10776/huge.jpg",
+          "id": 10776,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/orlando-predators-984076/10776/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 2
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/orlando-predators-tickets",
+          "score": 0.42,
+          "slug": "orlando-predators",
+          "home_venue_id": null,
+          "short_name": "Orlando Predators",
+          "num_upcoming_events": 2,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-17T19:00:00",
+      "time_tbd": false,
+      "short_title": "Orlando Predators at Carolina Cobras",
+      "visible_until_utc": "2021-07-18T03:00:00",
+      "stats": {
+        "listing_count": 705,
+        "average_price": 59,
+        "lowest_price_good_deals": 32,
+        "lowest_price": 32,
+        "highest_price": 207,
+        "visible_listing_count": 700,
+        "dq_bucket_counts": [
+          91,
+          138,
+          88,
+          71,
+          58,
+          62,
+          59,
+          0
+        ],
+        "median_price": 53,
+        "lowest_sg_base_price": 20,
+        "lowest_sg_base_price_good_deals": 20
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/orlando-predators-at-carolina-cobras-tickets/football/2021-07-17-7-pm/5397444",
+      "score": 0.387,
+      "announce_date": "2021-05-06T00:00:00",
+      "created_at": "2021-05-06T16:00:06",
+      "date_tbd": false,
+      "title": "Orlando Predators at Carolina Cobras",
+      "popularity": 0.623,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "QRCODE_TM",
+        "created_at": "2015-08-04T00:00:00Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "football",
+      "id": 5404005,
+      "datetime_utc": "2021-07-17T23:00:00",
+      "venue": {
+        "state": "NY",
+        "name_v2": "Times Union Center",
+        "postal_code": "12207",
+        "name": "Times Union Center",
+        "links": [
+          
+        ],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/times-union-center/tickets",
+        "score": 0.78,
+        "location": {
+          "lat": 42.6482,
+          "lon": -73.7538
+        },
+        "address": "51 South Pearl Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 11,
+        "city": "Albany",
+        "slug": "times-union-center",
+        "extended_address": "Albany, NY 12207",
+        "id": 153,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 532,
+        "capacity": 17500,
+        "display_location": "Albany, NY"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "Albany Empire",
+          "image": "https://seatgeek.com/images/performers-landscape/albany-empire-4ddd28/667538/huge.jpg",
+          "id": 667538,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/albany-empire-4ddd28/667538/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 2
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/albany-empire-tickets",
+          "score": 0.37,
+          "slug": "albany-empire",
+          "home_venue_id": null,
+          "short_name": "Albany Empire",
+          "num_upcoming_events": 2,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "football",
+          "name": "Jersey Flight",
+          "image": "https://seatgeek.com/images/performers-landscape/generic-football-07ce3f/677211/32399/huge.jpg",
+          "id": 703550,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-football-07ce3f/677211/32399/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/jersey-flight-tickets",
+          "score": 0.35,
+          "slug": "jersey-flight",
+          "home_venue_id": null,
+          "short_name": "Jersey Flight",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-17T19:00:00",
+      "time_tbd": false,
+      "short_title": "Jersey Flight at Albany Empire",
+      "visible_until_utc": "2021-07-18T03:00:00",
+      "stats": {
+        "listing_count": 213,
+        "average_price": 68,
+        "lowest_price_good_deals": null,
+        "lowest_price": 37,
+        "highest_price": 161,
+        "visible_listing_count": 205,
+        "dq_bucket_counts": [
+          0,
+          0,
+          0,
+          0,
+          2,
+          8,
+          201,
+          0
+        ],
+        "median_price": 64,
+        "lowest_sg_base_price": 24,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/jersey-flight-at-albany-empire-tickets/football/2021-07-17-7-pm/5404005",
+      "score": 0.393,
+      "announce_date": "2021-05-15T00:00:00",
+      "created_at": "2021-05-15T16:00:34",
+      "date_tbd": false,
+      "title": "Jersey Flight at Albany Empire",
+      "popularity": 0.62,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        "checkout_disclosures": {
+          "messages": [
+            {
+              "text": "All purchases are 100% guaranteed. Prices set by the seller may be above or below face value."
+            }
+          ]
+        }
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "football",
+      "id": 5345672,
+      "datetime_utc": "2021-07-17T23:00:00",
+      "venue": {
+        "state": "SK",
+        "name_v2": "Mosaic Stadium",
+        "postal_code": "S4T 1K1",
+        "name": "Mosaic Stadium",
+        "links": [
+          
+        ],
+        "timezone": "America/Regina",
+        "url": "https://seatgeek.com/venues/mosaic-stadium/tickets",
+        "score": 0.660417,
+        "location": {
+          "lat": 50.4521,
+          "lon": -104.624
+        },
+        "address": "1734 Elphinstone Street",
+        "country": "Canada",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 9,
+        "city": "Regina",
+        "slug": "mosaic-stadium",
+        "extended_address": "Regina, Canada",
+        "id": 146,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 0,
+        "capacity": 33000,
+        "display_location": "Regina, Canada"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "Saskatchewan Roughriders",
+          "image": "https://seatgeek.com/images/performers-landscape/saskatchewan-roughriders-d3286d/10680/huge.jpg",
+          "id": 10680,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/saskatchewan-roughriders-d3286d/10680/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 16
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/saskatchewan-roughriders-tickets",
+          "score": 0.53,
+          "slug": "saskatchewan-roughriders",
+          "home_venue_id": null,
+          "short_name": "Saskatchewan Roughriders",
+          "num_upcoming_events": 16,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "football",
+          "name": "Edmonton Eskimos",
+          "image": "https://seatgeek.com/images/performers-landscape/edmonton-eskimos-ff01c6/10759/huge.jpg",
+          "id": 10759,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/edmonton-eskimos-ff01c6/10759/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 12
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/edmonton-eskimos-tickets",
+          "score": 0.47,
+          "slug": "edmonton-eskimos",
+          "home_venue_id": null,
+          "short_name": "Edmonton Eskimos",
+          "num_upcoming_events": 12,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-17T17:00:00",
+      "time_tbd": false,
+      "short_title": "Edmonton Eskimos at Saskatchewan Roughriders",
+      "visible_until_utc": "2021-07-18T03:00:00",
+      "stats": {
+        "listing_count": null,
+        "average_price": null,
+        "lowest_price_good_deals": null,
+        "lowest_price": null,
+        "highest_price": null,
+        "visible_listing_count": null,
+        "dq_bucket_counts": null,
+        "median_price": null,
+        "lowest_sg_base_price": null,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/edmonton-eskimos-at-saskatchewan-roughriders-tickets/football/2021-07-17-5-pm/5345672",
+      "score": 0.594,
+      "announce_date": "2020-11-25T00:00:00",
+      "created_at": "2020-11-25T16:00:09",
+      "date_tbd": false,
+      "title": "Edmonton Eskimos at Saskatchewan Roughriders",
+      "popularity": 0.75,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "football",
+      "id": 5415969,
+      "datetime_utc": "2021-07-17T23:00:00",
+      "venue": {
+        "state": "FL",
+        "name_v2": "VyStar Veterans Memorial Arena",
+        "postal_code": "32202",
+        "name": "VyStar Veterans Memorial Arena",
+        "links": [
+          
+        ],
+        "timezone": "America/New_York",
+        "url": "https://seatgeek.com/venues/vystar-veterans-memorial-arena/tickets",
+        "score": 0.8,
+        "location": {
+          "lat": 30.3258,
+          "lon": -81.6451
+        },
+        "address": "300 A. Philip Randolph Blvd.",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 21,
+        "city": "Jacksonville",
+        "slug": "vystar-veterans-memorial-arena",
+        "extended_address": "Jacksonville, FL 32202",
+        "id": 342,
+        "popularity": 0,
+        "access_method": {
+          "method": "QRCODE_TM",
+          "created_at": "2015-07-14T00:00:00Z",
+          "employee_only": false
+        },
+        "metro_code": 561,
+        "capacity": 14800,
+        "display_location": "Jacksonville, FL"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "Jacksonville Sharks",
+          "image": "https://seatgeek.com/images/performers-landscape/jacksonville-sharks-1a491d/10783/huge.jpg",
+          "id": 10783,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/jacksonville-sharks-1a491d/10783/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 3
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/jacksonville-sharks-tickets",
+          "score": 0.35,
+          "slug": "jacksonville-sharks",
+          "home_venue_id": null,
+          "short_name": "Jacksonville Sharks",
+          "num_upcoming_events": 3,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "football",
+          "name": "Columbus Lions",
+          "image": "https://seatgeek.com/images/performers-landscape/columbus-lions-312fbf/262507/huge.jpg",
+          "id": 262507,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/columbus-lions-312fbf/262507/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "https://en.wikipedia.org/wiki/File:Columbus_Lions_4-14-2012.jpg",
+          "url": "https://seatgeek.com/columbus-lions-tickets",
+          "score": 0.35,
+          "slug": "columbus-lions",
+          "home_venue_id": null,
+          "short_name": "Columbus Lions",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-17T19:00:00",
+      "time_tbd": false,
+      "short_title": "Columbus Lions at Jacksonville Sharks",
+      "visible_until_utc": "2021-07-18T03:00:00",
+      "stats": {
+        "listing_count": 192,
+        "average_price": 83,
+        "lowest_price_good_deals": 25,
+        "lowest_price": 27,
+        "highest_price": 272,
+        "visible_listing_count": 158,
+        "dq_bucket_counts": [
+          7,
+          18,
+          15,
+          5,
+          5,
+          9,
+          133,
+          0
+        ],
+        "median_price": 81,
+        "lowest_sg_base_price": 16,
+        "lowest_sg_base_price_good_deals": 16
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/columbus-lions-at-jacksonville-sharks-tickets/football/2021-07-17-7-pm/5415969",
+      "score": 0.401,
+      "announce_date": "2021-06-03T00:00:00",
+      "created_at": "2021-06-03T16:00:14",
+      "date_tbd": false,
+      "title": "Columbus Lions at Jacksonville Sharks",
+      "popularity": 0.633,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "QRCODE_TM",
+        "created_at": "2015-07-14T00:00:00Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "football",
+      "id": 5388121,
+      "datetime_utc": "2021-07-18T01:05:00",
+      "venue": {
+        "state": "AZ",
+        "name_v2": "Findlay Toyota Center",
+        "postal_code": "86314",
+        "name": "Findlay Toyota Center",
+        "links": [
+          
+        ],
+        "timezone": "America/Phoenix",
+        "url": "https://seatgeek.com/venues/findlay-toyota-center/tickets",
+        "score": 0.58,
+        "location": {
+          "lat": 34.5892,
+          "lon": -112.337
+        },
+        "address": "3201 N. Main Street",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 11,
+        "city": "Prescott Valley",
+        "slug": "findlay-toyota-center",
+        "extended_address": "Prescott Valley, AZ 86314",
+        "id": 1229,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 753,
+        "capacity": 6300,
+        "display_location": "Prescott Valley, AZ"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "football",
+          "name": "Northern Arizona Wranglers",
+          "image": "https://seatgeek.com/images/performers-landscape/northern-arizona-wranglers-167277/793485/huge.jpg",
+          "id": 793485,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/northern-arizona-wranglers-167277/793485/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 5
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/northern-arizona-wranglers-tickets",
+          "score": 0.36,
+          "slug": "northern-arizona-wranglers",
+          "home_venue_id": null,
+          "short_name": "Northern Arizona Wranglers",
+          "num_upcoming_events": 5,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "football",
+          "name": "Duke City Gladiators",
+          "image": "https://seatgeek.com/images/performers-landscape/duke-city-gladiators-73656d/424769/huge.jpg",
+          "id": 424769,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/duke-city-gladiators-73656d/424769/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 4
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1020000,
+              "name": "football",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/duke-city-gladiators-tickets",
+          "score": 0.33,
+          "slug": "duke-city-gladiators",
+          "home_venue_id": null,
+          "short_name": "Duke City Gladiators",
+          "num_upcoming_events": 4,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-17T18:05:00",
+      "time_tbd": false,
+      "short_title": "Duke City Gladiators at Northern Arizona Wranglers",
+      "visible_until_utc": "2021-07-18T05:05:00",
+      "stats": {
+        "listing_count": 208,
+        "average_price": 74,
+        "lowest_price_good_deals": null,
+        "lowest_price": 36,
+        "highest_price": 125,
+        "visible_listing_count": 207,
+        "dq_bucket_counts": null,
+        "median_price": 69,
+        "lowest_sg_base_price": 23,
+        "lowest_sg_base_price_good_deals": null
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1020000,
+          "name": "football",
+          "parent_id": 1000000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/duke-city-gladiators-at-northern-arizona-wranglers-tickets/football/2021-07-17-6-05-pm/5388121",
+      "score": 0.445,
+      "announce_date": "2021-04-18T00:00:00",
+      "created_at": "2021-04-18T16:00:48",
+      "date_tbd": false,
+      "title": "Duke City Gladiators at Northern Arizona Wranglers",
+      "popularity": 0.642,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "mls",
+      "id": 5380091,
+      "datetime_utc": "2021-07-18T02:30:00",
+      "venue": {
+        "state": "CA",
+        "name_v2": "Banc of California Stadium",
+        "postal_code": "90037",
+        "name": "Banc of California Stadium",
+        "links": [
+          
+        ],
+        "timezone": "America/Los_Angeles",
+        "url": "https://seatgeek.com/venues/banc-of-california-stadium/tickets",
+        "score": 0.76,
+        "location": {
+          "lat": 34.0128,
+          "lon": -118.284
+        },
+        "address": "3939 South Figueroa St.",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 26,
+        "city": "Los Angeles",
+        "slug": "banc-of-california-stadium",
+        "extended_address": "Los Angeles, CA 90037",
+        "id": 432601,
+        "popularity": 0,
+        "access_method": {
+          "method": "QRCODE",
+          "created_at": "2018-04-23T12:43:29Z",
+          "employee_only": false
+        },
+        "metro_code": 803,
+        "capacity": 22000,
+        "display_location": "Los Angeles, CA"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "mls",
+          "name": "Los Angeles Football Club",
+          "image": "https://seatgeek.com/images/performers-landscape/los-angeles-football-club-42b0c9/651932/huge.jpg",
+          "id": 651932,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/los-angeles-football-club-42b0c9/651932/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1050100,
+              "short_name": "Western",
+              "display_name": "Western Conference",
+              "display_type": "Conference",
+              "division_level": 1,
+              "slug": "western-conference"
+            }
+          ],
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 21
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050000,
+              "name": "soccer",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050100,
+              "name": "mls",
+              "parent_id": 1050000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 3
+            }
+          ],
+          "image_attribution": "client provided",
+          "url": "https://seatgeek.com/los-angeles-football-club-tickets",
+          "score": 0.55,
+          "slug": "los-angeles-football-club",
+          "home_venue_id": 432601,
+          "short_name": "LAFC",
+          "num_upcoming_events": 21,
+          "colors": {
+            "all": [
+              "#191919",
+              "#C39E6D",
+              "#191919"
+            ],
+            "iconic": "#C39E6D",
+            "primary": [
+              "#191919",
+              "#C39E6D"
+            ]
+          },
+          "image_license": "client provided",
+          "popularity": 0,
+          "home_team": true,
+          "location": {
+            "lat": 34.0128,
+            "lon": -118.284
+          }
+        },
+        {
+          "type": "mls",
+          "name": "Real Salt Lake",
+          "image": "https://seatgeek.com/images/performers-landscape/real-salt-lake-f603c6/5868/huge.jpg",
+          "id": 5868,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/real-salt-lake-f603c6/5868/huge.jpg"
+          },
+          "divisions": [
+            {
+              "taxonomy_id": 1050100,
+              "short_name": "Western",
+              "display_name": "Western Conference",
+              "display_type": "Conference",
+              "division_level": 1,
+              "slug": "western-conference"
+            }
+          ],
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 25
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050000,
+              "name": "soccer",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050100,
+              "name": "mls",
+              "parent_id": 1050000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 3
+            }
+          ],
+          "image_attribution": "sg",
+          "url": "https://seatgeek.com/real-salt-lake-tickets",
+          "score": 0.56,
+          "slug": "real-salt-lake",
+          "home_venue_id": 228,
+          "short_name": "Real Salt Lake",
+          "num_upcoming_events": 25,
+          "colors": {
+            "all": [
+              "#001E62",
+              "#9D2235",
+              "#9D2235"
+            ],
+            "iconic": "#9D2235",
+            "primary": [
+              "#001E62",
+              "#9D2235"
+            ]
+          },
+          "image_license": "sg",
+          "popularity": 0,
+          "away_team": true,
+          "location": {
+            "lat": 40.6655,
+            "lon": -111.888
+          }
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-17T19:30:00",
+      "time_tbd": false,
+      "short_title": "Real Salt Lake at Los Angeles Football Club",
+      "visible_until_utc": "2021-07-18T06:30:00",
+      "stats": {
+        "listing_count": 1423,
+        "average_price": 191,
+        "lowest_price_good_deals": 57,
+        "lowest_price": 57,
+        "highest_price": 1277,
+        "visible_listing_count": 1041,
+        "dq_bucket_counts": [
+          195,
+          319,
+          294,
+          158,
+          137,
+          164,
+          130,
+          0
+        ],
+        "median_price": 149,
+        "lowest_sg_base_price": 39,
+        "lowest_sg_base_price_good_deals": 39
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1050000,
+          "name": "soccer",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1050100,
+          "name": "mls",
+          "parent_id": 1050000,
+          "rank": 3
+        }
+      ],
+      "url": "https://seatgeek.com/real-salt-lake-at-los-angeles-football-club-tickets/mls/2021-07-17-7-30-pm/5380091",
+      "score": 0.652,
+      "announce_date": "2021-03-24T00:00:00",
+      "created_at": "2021-03-24T19:25:25",
+      "date_tbd": false,
+      "title": "Real Salt Lake at Los Angeles Football Club",
+      "popularity": 0.793,
+      "description": "",
+      "status": "normal",
+      "access_method": {
+        "method": "QRCODE",
+        "created_at": "2018-04-23T12:43:29Z",
+        "employee_only": false
+      },
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    },
+    {
+      "type": "international_soccer",
+      "id": 5407365,
+      "datetime_utc": "2021-07-19T01:00:00",
+      "venue": {
+        "state": "TX",
+        "name_v2": "Cotton Bowl",
+        "postal_code": "75210",
+        "name": "Cotton Bowl",
+        "links": [
+          
+        ],
+        "timezone": "America/Chicago",
+        "url": "https://seatgeek.com/venues/cotton-bowl/tickets",
+        "score": 0.82,
+        "location": {
+          "lat": 32.6536,
+          "lon": -96.7679
+        },
+        "address": "3750 The Midway",
+        "country": "US",
+        "has_upcoming_events": true,
+        "num_upcoming_events": 5,
+        "city": "Dallas",
+        "slug": "cotton-bowl",
+        "extended_address": "Dallas, TX 75210",
+        "id": 3719,
+        "popularity": 0,
+        "access_method": null,
+        "metro_code": 623,
+        "capacity": 92100,
+        "display_location": "Dallas, TX"
+      },
+      "datetime_tbd": false,
+      "performers": [
+        {
+          "type": "soccer",
+          "name": "CONCACAF Gold Cup",
+          "image": "https://seatgeek.com/images/performers-landscape/generic-international-soccer-66c692/677192/32410/huge.jpg",
+          "id": 9710,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-international-soccer-66c692/677192/32410/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "primary": true,
+          "stats": {
+            "event_count": 12
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050000,
+              "name": "soccer",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "per client - SUM",
+          "url": "https://seatgeek.com/concacaf-gold-cup-tickets",
+          "score": 0.74,
+          "slug": "concacaf-gold-cup",
+          "home_venue_id": null,
+          "short_name": "Cup",
+          "num_upcoming_events": 12,
+          "colors": null,
+          "image_license": "per client - SUM",
+          "popularity": 0,
+          "home_team": true,
+          "location": null
+        },
+        {
+          "type": "international_soccer",
+          "name": "El Salvador National Soccer Team",
+          "image": "https://seatgeek.com/images/performers-landscape/generic-international-soccer-66c692/677192/32410/huge.jpg",
+          "id": 11009,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/generic-international-soccer-66c692/677192/32410/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050000,
+              "name": "soccer",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050400,
+              "name": "international_soccer",
+              "parent_id": 1050000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": null,
+          "url": "https://seatgeek.com/el-salvador-national-soccer-team-tickets",
+          "score": 0.73,
+          "slug": "el-salvador-national-soccer-team",
+          "home_venue_id": null,
+          "short_name": "El Salvador National Soccer Team",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": null,
+          "popularity": 0,
+          "location": null
+        },
+        {
+          "type": "soccer",
+          "name": "Mexico National Football Team",
+          "image": "https://seatgeek.com/images/performers-landscape/mexico-national-football-team-3b0a3c/426495/huge.jpg",
+          "id": 426495,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/mexico-national-football-team-3b0a3c/426495/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 1
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050000,
+              "name": "soccer",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "per client - SUM",
+          "url": "https://seatgeek.com/mexico-national-football-team-tickets",
+          "score": 0.65,
+          "slug": "mexico-national-football-team",
+          "home_venue_id": null,
+          "short_name": "Mexico National Football Team",
+          "num_upcoming_events": 1,
+          "colors": null,
+          "image_license": "per client - SUM",
+          "popularity": 0,
+          "away_team": true,
+          "location": null
+        },
+        {
+          "type": "soccer",
+          "name": "Gold Cup Group Stage",
+          "image": "https://seatgeek.com/images/performers-landscape/gold-cup-group-stage-be280c/609986/huge.jpg",
+          "id": 609986,
+          "images": {
+            "huge": "https://seatgeek.com/images/performers-landscape/gold-cup-group-stage-be280c/609986/huge.jpg"
+          },
+          "divisions": null,
+          "has_upcoming_events": true,
+          "stats": {
+            "event_count": 7
+          },
+          "taxonomies": [
+            {
+              "id": 1000000,
+              "name": "sports",
+              "parent_id": null,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            },
+            {
+              "id": 1050000,
+              "name": "soccer",
+              "parent_id": 1000000,
+              "document_source": {
+                "source_type": "ELASTIC",
+                "generation_type": "FULL"
+              },
+              "rank": 0
+            }
+          ],
+          "image_attribution": "SG",
+          "url": "https://seatgeek.com/gold-cup-group-stage-tickets",
+          "score": 0.74,
+          "slug": "gold-cup-group-stage",
+          "home_venue_id": null,
+          "short_name": "Gold Cup Group Stage",
+          "num_upcoming_events": 7,
+          "colors": null,
+          "image_license": "SG",
+          "popularity": 0,
+          "location": null
+        }
+      ],
+      "is_open": false,
+      "links": [
+        
+      ],
+      "datetime_local": "2021-07-18T20:00:00",
+      "time_tbd": false,
+      "short_title": "Gold Cup Group Stage - Group A (Mexico vs El Salvador)",
+      "visible_until_utc": "2021-07-19T05:00:00",
+      "stats": {
+        "listing_count": 219,
+        "average_price": 191,
+        "lowest_price_good_deals": 125,
+        "lowest_price": 125,
+        "highest_price": 441,
+        "visible_listing_count": 216,
+        "dq_bucket_counts": [
+          27,
+          64,
+          38,
+          21,
+          18,
+          34,
+          20,
+          0
+        ],
+        "median_price": 168,
+        "lowest_sg_base_price": 94,
+        "lowest_sg_base_price_good_deals": 94
+      },
+      "taxonomies": [
+        {
+          "id": 1000000,
+          "name": "sports",
+          "parent_id": null,
+          "rank": 0
+        },
+        {
+          "id": 1050000,
+          "name": "soccer",
+          "parent_id": 1000000,
+          "rank": 0
+        },
+        {
+          "id": 1050400,
+          "name": "international_soccer",
+          "parent_id": 1050000,
+          "rank": 0
+        }
+      ],
+      "url": "https://seatgeek.com/gold-cup-group-stage-group-a-mexico-vs-el-salvador-tickets/international-soccer/2021-07-18-8-pm/5407365",
+      "score": 0.873,
+      "announce_date": "2021-05-17T00:00:00",
+      "created_at": "2021-05-17T18:51:44",
+      "date_tbd": false,
+      "title": "Gold Cup Group Stage - Group A (Mexico vs El Salvador)",
+      "popularity": 0.945,
+      "description": "",
+      "status": "normal",
+      "access_method": null,
+      "event_promotion": null,
+      "announcements": {
+        
+      },
+      "conditional": false,
+      "enddatetime_utc": null,
+      "themes": [
+        
+      ],
+      "domain_information": [
+        
+      ]
+    }
+  ],
+  "meta": {
+    "total": 1540,
+    "took": 5,
+    "page": 1,
+    "per_page": 10,
+    "geolocation": null
+  },
+  "in_hand": {
+    
+  }
+}
