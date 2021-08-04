@@ -146,8 +146,6 @@
 				8E655A3426A22E2E00A8C7AC /* DetailView */,
 				8E655A3326A22E2900A8C7AC /* Search */,
 				8E655A3226A22E2200A8C7AC /* Storyboards */,
-				8E655A2226A22CDF00A8C7AC /* Main.storyboard */,
-				8E655A2726A22CE200A8C7AC /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -155,6 +153,8 @@
 		8E655A3226A22E2200A8C7AC /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
+				8E655A2226A22CDF00A8C7AC /* Main.storyboard */,
+				8E655A2726A22CE200A8C7AC /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
 			sourceTree = "<group>";
