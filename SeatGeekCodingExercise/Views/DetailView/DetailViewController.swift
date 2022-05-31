@@ -32,15 +32,15 @@ class DetailViewController: UIViewController {
         viewModel.fetchImage { success in
             if success {
                 self.eventImageView.image = self.viewModel.eventImage
-                self.eventImageView.layer.cornerRadius = 5.0
+                self.eventImageView.layer.cornerRadius = self.viewModel.cornerRadius
             }
         }
         descriptionLabel.text = viewModel.event.eventTitle
-        dateAndTimeLabel.text = DateFormatter.oneLineDate(isoDate: viewModel.event.dateAndTime)
+        dateAndTimeLabel.text = viewModel.oneLineFormattedDate()
         locationLabel.text = viewModel.event.venue.location
         
         let event = viewModel.event
-        let isFavoriteBool = EventController.shared.isFavoriteEvent(event: event)
+        let isFavoriteBool = viewModel.isFavoriteBool(event: event)
         setFavoriteButton(isFavoriteBool)
     }
     
@@ -60,9 +60,8 @@ class DetailViewController: UIViewController {
     }
     
     func setFavoriteButton(_ isFavorite: Bool) {
-        let imageName = isFavorite ? "heartRed" : "heartEmpty"
+        let imageName = viewModel.getFavoriteButtonImageName(isFavorite: isFavorite)
         favoritedButton.setImage(UIImage(named: imageName), for: .normal)
     }
     
 }
-

@@ -7,6 +7,7 @@
 
 import XCTest
 @testable import SeatGeekCodingExercise
+
 class EventDataTest: XCTestCase {
 
     func testCanParseEvents() throws {

@@ -13,7 +13,7 @@ class SearchViewModel {
     let service = EventService()
     
     func searchForEvents(searchTerm: String, pagination: Bool, completion: ((Bool) -> Void)?) {
-        service.fetchData(searchText: searchTerm) { result in
+        service.fetchData(searchText: searchTerm, pagination: pagination) { result in
             switch result {
             case .success(let events):
                 if pagination {
@@ -34,11 +34,11 @@ class SearchViewModel {
     }
     
     func numberOfRows() -> Int {
-        return events.count
+        events.count
     }
     
     func getEvent(byIndex index: Int) -> Event {
-        return events[index]
+        events[index]
     }
     
 }

@@ -7,8 +7,7 @@
 
 import Foundation
 
-enum NetworkError: LocalizedError {
-    
+enum NetworkError: LocalizedError, Equatable {
     case invalidURL
     case thrownError(Error)
     case noData
@@ -25,6 +24,10 @@ enum NetworkError: LocalizedError {
         case .unableToDecode:
             return "The server responded with bad data."
         }
+    }
+    
+    static func == (lhs: NetworkError, rhs: NetworkError) -> Bool {
+        lhs.errorDescription == rhs.errorDescription
     }
     
 }

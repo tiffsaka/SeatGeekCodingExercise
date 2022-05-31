@@ -25,6 +25,9 @@
 		8E655A5B26A2318900A8C7AC /* EventDataTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E655A5A26A2318900A8C7AC /* EventDataTest.swift */; };
 		8E655A5D26A231A200A8C7AC /* SeatGeekSampleResponse.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E655A5C26A231A200A8C7AC /* SeatGeekSampleResponse.json */; };
 		8E655A6526A241C200A8C7AC /* SeatGeekCodingExerciseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E655A6426A241C200A8C7AC /* SeatGeekCodingExerciseUITests.swift */; };
+		8E7056C7284482360013C660 /* DetailViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7056C6284482360013C660 /* DetailViewModelTests.swift */; };
+		8E7056CB284556C50013C660 /* NetworkErrorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E7056CA284556C50013C660 /* NetworkErrorTests.swift */; };
+		8EB5D7BC2845632A00AD4927 /* DateFormatterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EB5D7BB2845632A00AD4927 /* DateFormatterTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +72,9 @@
 		8E655A6226A241C200A8C7AC /* SeatGeekCodingExerciseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeatGeekCodingExerciseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E655A6426A241C200A8C7AC /* SeatGeekCodingExerciseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatGeekCodingExerciseUITests.swift; sourceTree = "<group>"; };
 		8E655A6626A241C200A8C7AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E7056C6284482360013C660 /* DetailViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewModelTests.swift; sourceTree = "<group>"; };
+		8E7056CA284556C50013C660 /* NetworkErrorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkErrorTests.swift; sourceTree = "<group>"; };
+		8EB5D7BB2845632A00AD4927 /* DateFormatterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatterTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -206,6 +212,9 @@
 		8E655A5126A2316300A8C7AC /* SeatGeekCodingExerciseTests */ = {
 			isa = PBXGroup;
 			children = (
+				8E7056CA284556C50013C660 /* NetworkErrorTests.swift */,
+				8EB5D7BB2845632A00AD4927 /* DateFormatterTests.swift */,
+				8E7056C6284482360013C660 /* DetailViewModelTests.swift */,
 				8E655A5A26A2318900A8C7AC /* EventDataTest.swift */,
 				8E655A5C26A231A200A8C7AC /* SeatGeekSampleResponse.json */,
 				8E655A5426A2316300A8C7AC /* Info.plist */,
@@ -381,6 +390,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E655A5B26A2318900A8C7AC /* EventDataTest.swift in Sources */,
+				8E7056CB284556C50013C660 /* NetworkErrorTests.swift in Sources */,
+				8EB5D7BC2845632A00AD4927 /* DateFormatterTests.swift in Sources */,
+				8E7056C7284482360013C660 /* DetailViewModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
