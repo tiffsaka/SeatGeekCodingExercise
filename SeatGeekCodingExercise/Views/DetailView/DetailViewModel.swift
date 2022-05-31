@@ -12,9 +12,22 @@ class DetailViewModel {
     let event: Event
     let service = EventService()
     var eventImage = UIImage()
+    let cornerRadius = 5.0
 
     init(event: Event) {
         self.event = event
+    }
+    
+    func oneLineFormattedDate() -> String {
+        DateFormatter.oneLineDate(isoDate: event.dateAndTime)
+    }
+    
+    func isFavoriteBool(event: Event) -> Bool {
+        EventController.shared.isFavoriteEvent(event: event)
+    }
+    
+    func getFavoriteButtonImageName(isFavorite: Bool) -> String {
+        isFavorite ? "heartRed" : "heartEmpty"
     }
     
     func fetchImage(completion: ((Bool) -> Void)?) {
